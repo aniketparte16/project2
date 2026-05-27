@@ -1,2 +1,2 @@
 //add new feature
-console.log("Apna School");
+console.log("This is for feature");
